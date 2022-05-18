@@ -2,7 +2,6 @@
 
 ![toezilla's github stats](https://github-readme-stats.vercel.app/api?username=toezilla&show_icons=true&theme=gruvbox)
 
-출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toadzilla)](https://solved.ac/toadzilla/)
 
 
